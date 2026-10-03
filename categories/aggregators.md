@@ -6,7 +6,7 @@ A curated list of MCPApps for **Aggregators**.
 
 ## Apps & Tools
 
-- *[Add your app here]*
+- [Aident Loadout](https://aident.ai) - Connect any AI agent to 1,000+ apps and 400+ Skills through one reusable MCP setup (Vault, Audit, one balance).
 
 ---
 [Contribute](../CONTRIBUTING.md) to this list!
